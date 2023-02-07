@@ -1,0 +1,10 @@
+#V2
+(contract-call? .calculator addition 12 12)
+(contract-call? .calculator addition 13 12)
+(contract-call? .calculator subtraction 13 12)
+(contract-call? .calculator division 13 12)
+(contract-call? .calculator multiplication 13 12)
+(contract-call? .calculator addition 4 3)
+(contract-call? .calculator subtraction 4 3)
+(contract-call? .calculator division 10 3)
+(contract-call? .calculator multiplication 12 2)
